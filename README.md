@@ -1,0 +1,2 @@
+# Ideas
+Place for ideas
