@@ -1,2 +1,2 @@
 # Ideas
-Place for ideas
+Place for ideas - this will include apps code and text
